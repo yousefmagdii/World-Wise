@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-12-06T20:29:20.404Z",
+      "notes": "",
+      "position": {
+        "lat": "30.012030680358613",
+        "lng": "31.245117187500004"
+      },
+      "id": 1231412525
+    },
+    {
+      "cityName": "Ramallah",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2023-12-06T21:18:24.143Z",
+      "notes": "❤️❤️❤️",
+      "position": {
+        "lat": "31.893882567548644",
+        "lng": "35.21118164062501"
+      },
+      "id": 1231412528
+    },
+    {
+      "cityName": "Gaza",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2023-12-06T21:19:13.548Z",
+      "notes": "❤️❤️❤️❤️",
+      "position": {
+        "lat": "31.496603776074124",
+        "lng": "34.46136474609376"
+      },
+      "id": 1231412529
+    },
+    {
+      "cityName": "Aswan",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-12-06T21:19:23.780Z",
+      "notes": "",
+      "position": {
+        "lat": "24.09160403287902",
+        "lng": "32.90954589843751"
+      },
+      "id": 1231412530
+    },
+    {
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-06T23:49:22.523Z",
+      "notes": "",
+      "position": {
+        "lat": "41.64213096472801",
+        "lng": "-0.8871459960937501"
+      },
+      "id": 1231412533
+    },
+    {
+      "cityName": "Barelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-07T16:21:49.967Z",
+      "notes": "visca el barca e visca catalunya❤️💙❤️💙❤️",
+      "position": {
+        "lat": "41.8491046861039",
+        "lng": "1.5724182128906252"
+      },
+      "id": 1231412534
+    }
+  ]
+}
